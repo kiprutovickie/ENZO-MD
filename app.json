@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝐄𝐍𝐙𝐎 𝐌𝐃",
+      "value":"VICTOR",
       "required":false
 
     } ,
@@ -49,7 +49,7 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
 	,
@@ -65,7 +65,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID , the code you receive after scanning Qr code",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZUdUdEZmb25PcmYzWUhQa2RKZER0V0RUeWZBWnYzZzh2a200MzYxKzhHbz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMThVSklhSzJzamlQTk9nVXVUM2xsZGtvYmJQMXI2WXp4dHJscE1mdVFtUT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJBQXZZQlhraGhJVjZmTlIwOVNRc3dkeVd1YXlaSElHZFl6WDhBVDF3YWtVPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJBQkdRL2hNcjNhOTVRVFJGTmlydWtrVlVjOWdPQitZVHEvMmJpd0FBdjBNPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImtGUmN2V0ZPYndyU1l2d0hDRGI4Mmt0K3pwTm1wMUlFK3hSV1l3cmFLVm89In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImxEekcwUGFaVytIS0dxVSs0S0E4SmRhM1dVNnBLcDBOMm5seEUySEJGaTA9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUUo3ZTJtZlJJSXR0MjNoU2tLbEZ5UVVFazBHZUxSSjZkS3J6NDkyek5HWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicWJmbFdRRTdZK214RzRLME9qTklaVE44bUJGU2JxeGhzbXAwYTFSbVJuRT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik9DbXc5WlRER1hUd1luVFoyZVh1TExwWEhYNkRTNVZNNEp6VGhlZ0VmMWRMS1JpakhHZEdpcXZ6K1R6eE0xRG1qZnkxQkRyd3loYlUwR3Bld3owSUNnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NDgsImFkdlNlY3JldEtleSI6IktNTno2WEg4R2gwaDJTNjZGMUhDR3VqVGxibWVuaXNGK0RUSmtHMGpsRW89IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6InU4dkdUUDMyUXZpZU8wcTc3VU11QWciLCJwaG9uZUlkIjoiOWI1NTNjMGYtZWM3OS00NWIxLWJiZTYtOWUwNTVkMmVkMThjIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ikx3MzNDWWR4NHcrTTA2bHVVeUwxNk81YllMbz0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJnbXVjcjBFUzVEakxxZW10YzAxZU1mcG9sbGM9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiMVhHSk5XUjMiLCJtZSI6eyJpZCI6IjI1NDcyMDE1OTc1NTo1MkBzLndoYXRzYXBwLm5ldCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDUGFVMFVVUWc2blZ1Z1lZRHlBQUtBQT0iLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiNlFSMWlUNjR1RVVpL3VLb2NoZFcrS1VINm5sOG90OEVUWnBVbUFETll6dz0iLCJhY2NvdW50U2lnbmF0dXJlIjoiSEZaR2g3MExYMUNlTGNBY24vSXhIM3IrajhNK2dtNEFHam5KQVdUVWErVEJkSG9qZHhZY1BOM0JNZEhhdWh1SDNacDNoeWFGbG9CM3phb2xNMUd1QWc9PSIsImRldmljZVNpZ25hdHVyZSI6Ik1PT3dHU0huS0NwNDlCdFp2RUV2THA2OW5BNFJxaHU1MXp5aUs3cXNMZFBBZWVqSkIzcjdQUks4ZmlWZmhmTWhkMTVMNWZ2SDh2elF4TjJKZFBMQUJBPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjU0NzIwMTU5NzU1OjUyQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmVrRWRZayt1TGhGSXY3aXFISVhWdmlsQitwNWZLTGZCRTJhVkpnQXpXTTgifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MzM2NDU0NTYsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBTFZUIn0=",
       "required":true
       
     },
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐄𝐍𝐙𝐎 𝐓𝐄𝐂𝐇"
+    "value": "VICTOR"
   },
     "NUMERO_OWNER":
   {
@@ -87,7 +87,7 @@
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "3"
+    "value": "2"
   },
   "STARTING_BOT_MESSAGE":
   {
@@ -97,7 +97,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"1",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
